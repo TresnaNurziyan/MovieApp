@@ -1,6 +1,15 @@
 <resources>
-    <string name="app_name">MovieApps</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Movie Apps</string>
+    <string name="title_home">Now Playing</string>
+    <string name="title_dashboard">Upcoming</string>
+    <string name="title_notifications">Top Rated</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting">Setting</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="genre">Genre</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="add_to_favorite">Add to favorite</string>
+    <string name="search">search</string>
 </resources>
