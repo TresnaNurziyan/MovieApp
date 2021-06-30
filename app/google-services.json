@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515141272278",
+    "project_id": "movie-app-d30c1",
+    "storage_bucket": "movie-app-d30c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515141272278:android:c61660c82ee7207dd53f77",
+        "android_client_info": {
+          "package_name": "tresna.mobile.movieapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515141272278-a2l7pb0oiganqpr2tb5g6qa7efc8sgd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmM-aHoRYVWBAR5sE2mRKuLF8HJ8rezD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515141272278-a2l7pb0oiganqpr2tb5g6qa7efc8sgd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

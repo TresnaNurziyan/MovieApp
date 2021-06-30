@@ -3,6 +3,7 @@ package tresna.mobile.movieapps.movienowplaying.presenter;
 import android.app.Activity;
 import android.content.Intent;
 
+import tresna.mobile.movieapps.DetailActivity;
 import tresna.mobile.movieapps.apirepository.NetworkCallback;
 import tresna.mobile.movieapps.base.ui.BasePresenter;
 import tresna.mobile.movieapps.movienowplaying.model.NowResponse;
